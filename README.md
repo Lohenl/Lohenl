@@ -6,3 +6,4 @@
 - RL stuff
 - CRUD pre-built templates (FE/BE)
 - SGX Market Data API Proxy
+- Personal Finance Calc App
