@@ -1,7 +1,9 @@
-Yet another hello world readme. :D
-
 **Working on:**
-cruddy stuff. :\
+- cruddy stuff. :\
 
-**Backlog:**
-SGX Market Data API Proxy
+**Side Quest:**
+- RL stuff
+
+**Backlog / Wishlist**
+- CRUD pre-built templates (FE/BE)
+- SGX Market Data API Proxy
